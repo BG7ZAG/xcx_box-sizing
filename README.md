@@ -6,3 +6,6 @@ view,scroll-view,swiper,swiper-item,movable-area,movable-view,cover-view,cover-i
     box-sizing: border-box;
 }
 ```
+## 新增 scss版本
+
+[app.scss](https://github.com/hlbj105/xcx_box-sizing/blob/master/app.scss)
